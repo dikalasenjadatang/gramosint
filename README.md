@@ -20,7 +20,7 @@ from just looking at their profile
 
 `$ pkg install -y git`
 
-`$ git clone https://github.com/pedulimuapa/osintgram.git && cd osintgram`
+`$ git clone https://github.com/pedulimuapa/gramosint.git && cd gramosint`
 
 `$ python3 -m pip install -r requirements.txt`
 
