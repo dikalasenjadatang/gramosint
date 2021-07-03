@@ -26,9 +26,9 @@ from just looking at their profile
 
 ## • Usage
 
-`$ python3 main.py -u username`
+`$ python3 run.py -u username`
 
-`$ python3 main.py -h`
+`$ python3 run.py -h`
 
 `-p, --post images info highlight`
 
