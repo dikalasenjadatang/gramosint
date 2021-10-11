@@ -4,11 +4,11 @@
 </p>
 <p align="center"><img src="https://img.shields.io/badge/Version-2.0-brightgreen"></p>
 <p align="center">
-  <a href="https://github.com/pedulimuapa">
-    <img src="https://img.shields.io/github/followers/pedulimuapa?label=Follow&style=social">
+  <a href="https://github.com/haimaslian/">
+    <img src="https://img.shields.io/github/followers/haimaslian?label=Follow&style=social">
   </a>
-  <a href="https://github.com/pedulimuapa/gramosint/stargazers">
-    <img src="https://img.shields.io/github/stars/pedulimuapa/gramosint?style=social">
+  <a href="https://github.com/haimaslian/gramosint/stargazers">
+    <img src="https://img.shields.io/github/stars/haimaslian/gramosint?style=social">
   </a>
 </p>
 <p align="center">
@@ -37,7 +37,7 @@ from just looking at their profile
 
  $ pkg install -y git`
 
- $ git clone https://github.com/pedulimuapa/gramosint.git 
+ $ git clone https://github.com/haimaslian/gramosint.git
 
  $ cd gramosint
 
